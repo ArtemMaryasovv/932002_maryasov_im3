@@ -1,0 +1,10 @@
+C:\im\im3_maryasov\bin\Debug\im3_maryasov.exe.config
+C:\im\im3_maryasov\bin\Debug\im3_maryasov.exe
+C:\im\im3_maryasov\bin\Debug\im3_maryasov.pdb
+C:\im\im3_maryasov\obj\Debug\im3_maryasov.csproj.AssemblyReference.cache
+C:\im\im3_maryasov\obj\Debug\im3.Form1.resources
+C:\im\im3_maryasov\obj\Debug\im3_maryasov.Properties.Resources.resources
+C:\im\im3_maryasov\obj\Debug\im3_maryasov.csproj.GenerateResource.cache
+C:\im\im3_maryasov\obj\Debug\im3_maryasov.csproj.CoreCompileInputs.cache
+C:\im\im3_maryasov\obj\Debug\im3_maryasov.exe
+C:\im\im3_maryasov\obj\Debug\im3_maryasov.pdb
